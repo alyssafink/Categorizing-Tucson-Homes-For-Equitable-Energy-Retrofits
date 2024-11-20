@@ -1,6 +1,13 @@
 ### CHI-SQUARED TEST FOR BUILDING SEGMENTS ###
 
-# Set working directory
+# this script takes a .csv file exported from ArcGIS that contains all single-family parcels in Tucson,AZ
+# each parcel contains that variables pertaining to its residential building segment and Low-Income and 
+# Disadvantaged Community (LIDAC) status
+# it creates two two-way tables & chi-square tests
+
+# see SBE-580-Pilot-Study/data/README.md for instructions to download the data
+
+# Set working directory - update this once data have been downloaded
 getwd()
 setwd("//apporto.com/dfs/ARIZONA/Users/alyssafink_arizona/Desktop/SBE 580")
 getwd()
@@ -39,7 +46,7 @@ segments_chisquared_v1 <- segments_chisquared_v1 %>%
                 year2 = factor(year2, levels=c("<1940", "1940-1979", ">1979"))
                 )
 
-# check to make sure iy worked
+# check to make sure it worked
 sumtable(segments_chisquared_v1)
 
 # calculate two-way table and chi-squared
