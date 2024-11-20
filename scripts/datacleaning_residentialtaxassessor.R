@@ -3,7 +3,9 @@
 # turns it into a .csv file with the building segment assignment and related variables
 # for all parcels containing single-family homes in Pima County, AZ
 
-# set working directory - ensure this is correct
+# for guidance on accessing the tax assessor dataset, see SBE-580-Pilot-Study/data/README.md
+
+# set working directory - update this once you have accessed the dataset
 getwd()
 setwd("//apporto.com/dfs/ARIZONA/Users/alyssafink_arizona/Desktop/SBE 580")
 getwd()
@@ -18,7 +20,7 @@ library(janitor)
 library(dplyr)
 library(jtools)
 
-# read and load the residential tax assessor dataset (accessed online, also in the rep0)
+# read and load the residential tax assessor dataset (accessed online, see note above)
 Mas25 <- read.csv("tax_assessor/Mas25.csv", header = TRUE, sep = ",")
 
 # turn off scientific notation
