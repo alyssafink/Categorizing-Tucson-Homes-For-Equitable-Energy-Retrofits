@@ -13,7 +13,7 @@ Usage Instructions: steps to reproduce the results
 ## Process
 
 1. Download the following files from /data. Alternatively, follow the instructions below to download more recent data from misc. sources.
-  * 1.0-shapefile-codebook.zip - To download this from the official source, visit the downloads page of the Climate and Economic Justice Screening Tool (https://screeningtool.geoplatform.gov/en/downloads#3/33.47/-97.5). Download the most recent Shapefile.
+  * 1.0-shapefile-codebook.zip - To download this from the official source, visit the downloads page of the Climate and Economic Justice Screening Tool [here](https://screeningtool.geoplatform.gov/en/downloads#3/33.47/-97.5). Download the most recent Shapefile.
   * Mas25.csv - To download this from the official source, visit the downloads page of the Pima County Tax Assessor website (https://www.asr.pima.gov/Download?tab=RealProp). Click on the 'Real Property' tab and select the most recently available tax year (2025 for this project). Expand 'Notice of Value Data' and select Mas25.ZIP to download the file.
   * Parcels_-_Regional.zip - To download this from the official source, visit the GIS Open Data Portal for Pima County (https://gisopendata.pima.gov/datasets/parcels-regional/explore).
 2. Run the datacleaning_residentialtaxassessor.R script. Be sure to update the file path for the Mas25.csv file, which you will have to extract if you downloaded it yourself. This will assign every parcel with a single-family home in Pima County to a category (called a 'segment') based on construction year and exterior wall type.
