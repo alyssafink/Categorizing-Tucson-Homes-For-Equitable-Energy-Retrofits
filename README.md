@@ -2,7 +2,7 @@
 
 This repository provides documentation for a method used to assign all single-family homes in Tucson into categories (based on construction year and exterior wall type) and determine the percentage of each category that sit within Low-Income and Disadvantaged Communities (LIDAC) according to the Climate and Economic Justice Screening Tool.
 
-The method was originally applied to a pilot study completed Fall 2024 for SBE580: Research Methods under the instruction of Dr. Philip Stoker. The complete report can be found here: [INSERT LINK HERE].
+The method was originally applied to a pilot study completed Fall 2024 for SBE580: Research Methods under the instruction of Dr. Philip Stoker. The complete report can be found [here](https://drive.google.com/drive/folders/15X2XCbSIXSZjJQ4sp1wPiLV1Mryy8AV2?usp=sharing).
 
 Please note that all scripts were run through R Studio, not the GitHub CLI.
 
