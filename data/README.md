@@ -15,6 +15,8 @@ This file contains twenty-five (25) variables for all parcels which the Pima Cou
 
 This file contains GIS shapefiles for every parcel in Pima County as of April 2022, in addition to a number of other variables.
 
+---
+
 ### Produced Data
 
 #### `parcel_year_wall_v8.csv`
