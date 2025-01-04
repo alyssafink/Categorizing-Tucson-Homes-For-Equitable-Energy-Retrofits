@@ -1,7 +1,7 @@
 ## Data
 
 ### Original Public Datasets
-Due to file sizes, all publicly-available datasets can be found in [this Google folder.](https://drive.google.com/drive/folders/1bReoAVYEhUDYDKfaThQL4yO8DmL75vWn?usp=sharing) Alternatively, you can download more recent data per the instructions on the main repository README file.
+Due to file sizes, all publicly-available datasets can be found in [this Google folder.](https://drive.google.com/drive/folders/1bReoAVYEhUDYDKfaThQL4yO8DmL75vWn?usp=sharing) Alternatively, you can download more recent data per the instructions on the main repository `README` file.
 
 #### `1.0-shapefile-codebook.zip`
 
