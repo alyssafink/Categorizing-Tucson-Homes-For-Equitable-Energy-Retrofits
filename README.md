@@ -1,11 +1,14 @@
 # Categorizing Tucson Homes for Equitable Energy Retrofits
-This pilot study was completed in Fall 2024 for SBE580: Research Methods under the instruction of Dr. Philip Stoker.
 
-Overview: This repository provides documentation for a method used to assign all single-family homes in Tucson into categories (based on construction year and exterior wall type) and determine the percentage of each category that sit within Low-Income and Disadvantaged Communities (LIDAC) according to the U.S. EPA.
+This repository provides documentation for a method used to assign all single-family homes in Tucson into categories (based on construction year and exterior wall type) and determine the percentage of each category that sit within Low-Income and Disadvantaged Communities (LIDAC) according to the U.S. EPA.
 
-/data: This folder contains all the public data needed to run the analysis. Many of the files are quite large - they can be accessed via a Google Drive link or downloaded elsewhere (instructions provided).
+The method was originally applied to a pilot study completed Fall 2024 for SBE580: Research Methods under the instruction of Dr. Philip Stoker.
 
-/scripts: This folder contains two R scripts - one used to prepare the data for analysis in ArcGIS, and one used to analyze the ArcGIS output.
+Please note that all scripts were run through R Studio, not the GitHub CLI.
+
+./data: This folder contains all the public data needed to run the analysis. Many of the files are quite large - they can be accessed via a Google Drive link or downloaded elsewhere (instructions provided).
+
+./scripts: This folder contains two R scripts - one used to prepare the data for analysis in ArcGIS, and one used to analyze the ArcGIS output.
 
 Usage Instructions: steps to reproduce the results
 
