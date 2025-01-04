@@ -1,6 +1,5 @@
-# SBE 580 Pilot Study
-
-Project Title [WORKING]
+# Categorizing Tucson Homes for Equitable Energy Retrofits
+This pilot study was completed in Fall 2024 for SBE580: Research Methods under the instruction of Dr. Philip Stoker.
 
 Overview: This repository provides documentation for a method used to assign all single-family homes in Tucson into categories (based on construction year and exterior wall type) and determine the percentage of each category that sit within Low-Income and Disadvantaged Communities (LIDAC) according to the U.S. EPA.
 
