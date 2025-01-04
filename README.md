@@ -13,6 +13,7 @@ This folder contains all the public data needed to perform the analysis. Many of
 
 ### `./scripts`
 This folder contains two R scripts - one used to prepare the data for analysis in ArcGIS, and one used to analyze the ArcGIS output.
+Both were written in R 4.4.1.
 
 ## Process
 
