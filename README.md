@@ -6,6 +6,8 @@ The method was originally applied to a pilot study completed Fall 2024 for SBE58
 
 Please note that all scripts were run through R Studio, not the GitHub CLI.
 
+## Organization
+
 ./data: This folder contains all the public data needed to run the analysis. Many of the files are quite large - they can be accessed via a Google Drive link or downloaded elsewhere (instructions provided).
 
 ./scripts: This folder contains two R scripts - one used to prepare the data for analysis in ArcGIS, and one used to analyze the ArcGIS output.
