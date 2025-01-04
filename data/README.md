@@ -1,7 +1,7 @@
 ## Data
 
 ### Public Data
-All publicly-available datasets can be found in [this Google folder.](https://drive.google.com/drive/folders/1bReoAVYEhUDYDKfaThQL4yO8DmL75vWn?usp=sharing)
+Due to file sizes, all publicly-available datasets can be found in [this Google folder.](https://drive.google.com/drive/folders/1bReoAVYEhUDYDKfaThQL4yO8DmL75vWn?usp=sharing)
 
 `1.0-shapefile-codebook.zip`
 
