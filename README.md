@@ -11,7 +11,8 @@ Please note that all scripts were run through R Studio, not the GitHub CLI.
 ### `./data`
 This folder contains all the public data needed to run the analysis. Many of the files are quite large - they can be accessed via a Google Drive link or downloaded elsewhere (instructions provided).
 
-./scripts: This folder contains two R scripts - one used to prepare the data for analysis in ArcGIS, and one used to analyze the ArcGIS output.
+### `./scripts`
+This folder contains two R scripts - one used to prepare the data for analysis in ArcGIS, and one used to analyze the ArcGIS output.
 
 Usage Instructions: steps to reproduce the results
 
